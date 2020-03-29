@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "biblia-mglcwi",
+  "private_key_id": "cc820c41d0c1bcf88d773d8207604f88a360effe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1TS/is9093mPa\n2SjFny6DXyWv0LjDb6eFlctccQ+erNqWNYv0PiTnxM9m/rzp3BbUJUUYq8s4NnXr\nnUE5+CSOLpmGVydqBWuuLsln2RvPWRPRGCAiWoyIE+GdDFOJzy2PdPKiK2kctkUL\nNGzpu7rVeHVr1ni8Aru/OfCmRxHpl0g7MdAXlZvNHtxyMdrdnvdFeodvKBrIYkhq\nA79ha/ydBRBvBaFZNxOhGUdELfmVDhMXYSjiWQprRvAP9R1//4lL6RTf9AohuCV9\nSfpkIXW6ItwazjC/zHHnT1XBe/jdjDAI9Xh5TtgrlLtehrpyFW21UvFM5IlxjwtB\nNV9amS8vAgMBAAECggEABugEUXX5kRBGLIGGOJT6QB3hQSPJzgQUVRXiM8jIyAoc\nn4k1ph2x6TRJlEpS5vOv2O/8hFaS/LayYkHQyMUHm3Tx+ziZs0O2mOGGYZLXKNxj\nUV1CaByb6tkbCJD+I6tFOIhDb+MIc4QL+EPMfFDe6p/WlT+LxNmzzjKGVMczSvsc\nPALIzO1r2MSYQSBHBt/SKVo8vEiPpI73+JPkT+2p/9K4HJ3KvM33/my8pgJr9qFl\nSqic4XFvTu2GGNE9uM3coJ/BBQ2w1HLU4VebQq4E62v/yfX1xfba3UaXDHlM6BAz\nAX/ivghjv6cBJAJl8T3udYdICm1Hy/NQ0cu77qPwLQKBgQD4gOubhqU+U/YN6l4N\ncCcszhEm95zQ87SBo9YpKcYUoPzU8c1DKtBp37022HYZuZTsNIs8C5T0my7kjQHJ\nubJ7lL1dQt3IX1PgjWYZSn6Z15pJzXMEXOWCLI8HM4q21hfXX8heG7Hc0P5+/YpR\nR/5l7r9J8uDcq7lpJcK022tyuwKBgQC6xUu19FUI6B4WstdTE9xHp4PS9GlnwuBG\nsUXzwWrzeH9lCUDXvJuYpDat9CUwTCG90xrhtQxNJjJLJ/WuhWHgfsiyWjT7CpDX\njnmiNip2bJDA3G4etFwcKzHkUBKl66eCK6yKMqJJBrtGelyM4vALD6ppSpmSFnk2\nu5BueGyQHQKBgA+7ca8N7iYtAJXO8ZdeM0y12wYhhO8BjrrqWWOPvneN3ZPJnxoS\netFJFdyEBa4JPrFZfjsV7J8zt9tGRge0VuVV/EsMMag+yLudmAof2jX5HU5w0EhF\nbU45bfChxbVfhnDfIns6u57kKEh32qrcqPFhFQEkfDHcOUe72UDD52CDAoGATz+o\nAGzMKBtVqQv5kaa7sSvDI5/RmdV2lIhjxior12MpqxViDihZXUtQaD9QCE5FguYw\nYdUQgyvR61HpTUQLY9ZoEkV0dZDmJJCvy8RwAA/Q3ASsNRsSemFZqibPwtdbHECr\n1XfmpFXW4PDKlH02nXroNAUTZIlkpXSwtC8k4YECgYB7Ai8wEmfqoFF/UVYE7UI0\nK7IV9vMzN+5MbxBrOumTY1E5r3DfU9W9Zo5UltTYS/AyXYk7LuNiW4FDaTMgtixj\nfvFAANci9NCkBDt8scVibN8tNdZkHqESnJ2FiDGoq4hc+AtAOm7tz1OqGHjrSLBC\net7aiR4KB/5M5K8GdGwKjA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gateway1@biblia-mglcwi.iam.gserviceaccount.com",
+  "client_id": "109281953153577061523",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gateway1%40biblia-mglcwi.iam.gserviceaccount.com"
+}
